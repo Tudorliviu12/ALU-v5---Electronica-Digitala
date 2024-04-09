@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="13980" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="7084" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="27060" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="17864" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="17900" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="6800" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="15420" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="7592" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="18244" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="28372" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="20008" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="18456" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="30308" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="16176" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="28380" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="17424" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="4156" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Anamaria" Host="DESKTOP-UC70HET" Pid="22496" HostCore="16" HostMemory="014887411712">
+    </Process>
+</ProcessHandle>
